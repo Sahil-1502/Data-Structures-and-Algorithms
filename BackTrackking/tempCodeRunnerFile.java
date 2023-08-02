@@ -1,0 +1,1 @@
+sudoku[row][col]=0;
